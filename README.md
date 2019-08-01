@@ -65,6 +65,6 @@ A list of suggestions that will make your time at the workshop even more product
 
 ###  How to perform live!
 
-[![LiveJS JSConfEU 2019 Intro](https://img.youtube.com/vi/o1rzsna263c/0.jpg)](https://www.youtube.com/watch?v=o1rzsna263c?t=1222 "LiveJS JSConfEU 2019 Intro")   
+[![LiveJS JSConfEU 2019 Intro](https://img.youtube.com/vi/o1rzsna263c/0.jpg)](https://youtu.be/o1rzsna263c?t=1222 "LiveJS JSConfEU 2019 Intro")   
 
 - Use a Web MIDI controller
