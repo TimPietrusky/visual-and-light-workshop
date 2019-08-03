@@ -1,6 +1,16 @@
-# Visual & Light Workshop
+<h1>Visual & Light Workshop</h1>
 
 Learn to create visuals and to control lights in this workshop, full of hands-on exercises. 
+
+- [Preparations](#preparations)
+  - [Nice to have](#nice-to-have)
+- [Schedule](#schedule)
+- [Workshop](#workshop)
+  - [What are visuals & lights?](#what-are-visuals--lights)
+  - [Visualize music with modV](#visualize-music-with-modv)
+  - [Control lights with luminave](#control-lights-with-luminave)
+  - [Connect modV & luminave with each other](#connect-modv--luminave-with-each-other)
+  - [How to perform live!](#how-to-perform-live)
 
 ---
 
@@ -18,9 +28,12 @@ A list of suggestions that will make your time at the workshop even more product
 
 ### Nice to have
 
-* Coding experience (only needed for the "Use visuals from CodePen / Shadertoy" part, we will help you if you struggle)
-* MIDI controller with USB (only needed for the "Perform live" part, we will have some to share)
-  * Recommendation: [KORG nanoKONTROL 2](https://www.korg.com/us/products/computergear/nanokontrol2/) as it is has a reasonable price,is small & has a lot of buttons, faders and knobs
+The following suggestions are totally optional, so please don't worry if you can't fulfill them: 
+
+* Coding experience  
+  * We will help you if you have no idea at all
+* MIDI controller that can be connected via USB to the computer
+  * We will have some spare MIDI controllers for you to use, but if you want to buy one we can recommend the [KORG nanoKONTROL 2](https://www.korg.com/us/products/computergear/nanokontrol2/) because it comes for a reasonable price, is portable & has a lot of buttons, faders and knobs
     ![korg nanoKONTROL 2](docs/media/korg_nanoKONTROL2.png)
 
 ---
@@ -35,7 +48,7 @@ A list of suggestions that will make your time at the workshop even more product
 
 ---
 
-## Concept
+## Workshop
 
 ### What are visuals & lights? 
 
