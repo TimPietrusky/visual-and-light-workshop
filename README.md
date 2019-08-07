@@ -19,12 +19,14 @@ Learn to create visuals and to control lights in this workshop, full of hands-on
 A list of suggestions that will make your time at the workshop even more productive:
 
 * Bring a computer
-* Check if your computer runs the latest version of each application: 
+* Check if your computer runs the latest version of these applications: 
   * [Chrome](https://www.google.com/chrome/)
   * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   * [Node.js](https://nodejs.org/en/download/package-manager/)
   * [modV](https://modv.js.org/guide/)
   * [luminave](https://github.com/NERDDISCO/luminave)
+
+🚨 If you have problems with any of these preperations, please contact Tim Pietrusky! 🚨
 
 ### Nice to have
 
@@ -35,6 +37,7 @@ The following suggestions are totally optional, so please don't worry if you can
 * MIDI controller that can be connected via USB to the computer
   * We will have some spare MIDI controllers for you to use, but if you want to buy one we can recommend the [KORG nanoKONTROL 2](https://www.korg.com/us/products/computergear/nanokontrol2/) because it comes for a reasonable price, is portable & has a lot of buttons, faders and knobs
     ![korg nanoKONTROL 2](docs/media/korg_nanoKONTROL2.png)
+* [Arduino IDE](https://www.arduino.cc/en/Guide/HomePage#install) if you want to put code onto the Arduino
 
 ---
 
@@ -50,18 +53,21 @@ The following suggestions are totally optional, so please don't worry if you can
 
 ## Workshop
 
-### What are visuals & lights? 
+### What are visuals & lights?  
 
-[![schickmalzwo - DNB ME UP](https://img.youtube.com/vi/RsqeSfyhzdw/0.jpg)](https://www.youtube.com/watch?v=RsqeSfyhzdw "schickmalzwo - DNB ME UP")   
+[![schickmalzwo - DNB ME UP](https://img.youtube.com/vi/RsqeSfyhzdw/0.jpg)](https://www.youtube.com/watch?v=RsqeSfyhzdw "schickmalzwo - DNB ME UP")  
 
+- About the tutor
 - We want to do all of this in the browser with web technologies
+  - Implications of open source software
 
 ---
 
 ### Visualize music with modV
 
+![Visuals created in modV by Tim Pietrusky](docs/media/modv_visuals.png)
+
 - How does [modV](https://modv.js.org/) work?
-  ![Visuals created in modV by Tim Pietrusky](docs/media/modv_visuals.png)
 - [Live audio analysis with Meyda](https://jsbin.com/movezix/6/edit?html,js,output)
 - Use visuals from [CodePen](https://codepen.io)
 - Use visuals from [Shadertoy](https://www.shadertoy.com)
@@ -70,13 +76,14 @@ The following suggestions are totally optional, so please don't worry if you can
 
 ### Control lights with luminave
 
+![Stairville Wild Wash Pro 648 LED RGB DMX](docs/media/stairville_wild_wash_pro_648_led_RGB_DMX.jpg)
+
 - How does [luminave](https://github.com/NERDDISCO/luminave) work?
-- What is DMX512?
+  - What is DMX512?
 - Build your own light (DMX512) Controller using an Arduino
   ![WebUSB DMX512 Controller](docs/media/webusb_dmx512_controller.jpg)
-- Let there be light
-  ![Stairville Wild Wash Pro 648 LED RGB DMX](docs/media/stairville_wild_wash_pro_648_led_RGB_DMX.jpg)
-
+- Patch a light
+  
 ---
 
 ### Connect modV & luminave with each other
@@ -92,3 +99,4 @@ The following suggestions are totally optional, so please don't worry if you can
 
 - Prepare for a show
 - Use a Web MIDI controller
+- Use Tim's settings
