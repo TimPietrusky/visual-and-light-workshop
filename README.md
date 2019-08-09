@@ -37,7 +37,7 @@ The following suggestions are totally optional, so please don't worry if you can
 * MIDI controller that can be connected via USB to the computer
   * We will have some spare MIDI controllers for you to use, but if you want to buy one we can recommend the [KORG nanoKONTROL 2](https://www.korg.com/us/products/computergear/nanokontrol2/) because it comes for a reasonable price, is portable & has a lot of buttons, faders and knobs
     ![korg nanoKONTROL 2](docs/media/korg_nanoKONTROL2.png)
-* [Arduino IDE](https://www.arduino.cc/en/Guide/HomePage#install) if you want to put code onto the Arduino
+* [Arduino IDE](https://www.arduino.cc/en/Guide/HomePage#install) if you want to put code onto the Arduino (if not then we will do this for you)
 
 ---
 
@@ -65,7 +65,9 @@ The following suggestions are totally optional, so please don't worry if you can
 
 ### Visualize music with modV
 
-![Visuals created in modV by Tim Pietrusky](docs/media/modv_visuals.png)
+<p align="center">
+  <img height="300" src="docs/media/modv_visuals.png" alt="Visuals created in modV by Tim Pietrusky">
+</p>
 
 - How does [modV](https://modv.js.org/) work?
 - [Live audio analysis with Meyda](https://jsbin.com/movezix/6/edit?html,js,output)
@@ -76,12 +78,15 @@ The following suggestions are totally optional, so please don't worry if you can
 
 ### Control lights with luminave
 
-![Stairville Wild Wash Pro 648 LED RGB DMX](docs/media/stairville_wild_wash_pro_648_led_RGB_DMX.jpg)
+<p align="center">
+  <img height="300" src="docs/media/stairville_wild_wash_pro_648_led_RGB_DMX.jpg" alt="Stairville Wild Wash Pro 648 LED RGB DMX">
+</p>
 
 - How does [luminave](https://github.com/NERDDISCO/luminave) work?
   - What is DMX512?
 - Build your own light (DMX512) Controller using an Arduino
-  ![WebUSB DMX512 Controller](docs/media/webusb_dmx512_controller.jpg)
+
+  <img height="200" src="docs/media/webusb_dmx512_controller.jpg" alt="WebUSB DMX512 Controller">
 - Patch a light
   
 ---
@@ -99,4 +104,4 @@ The following suggestions are totally optional, so please don't worry if you can
 
 - Prepare for a show
 - Use a Web MIDI controller
-- Use Tim's settings
+- Use Tim's preset for modV
