@@ -55,9 +55,14 @@ The following suggestions are totally optional, so please don't worry if you can
 
 ### What are visuals & lights?  
 
-[![schickmalzwo - DNB ME UP](https://img.youtube.com/vi/RsqeSfyhzdw/0.jpg)](https://www.youtube.com/watch?v=RsqeSfyhzdw "schickmalzwo - DNB ME UP")  
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=RsqeSfyhzdw">
+        <img height="300" src="https://img.youtube.com/vi/RsqeSfyhzdw/0.jpg" alt="schickmalzwo - DNB ME UP">
+    </a>
+</p>
 
-- About the tutor
+- What is the purpose of this workshop?
+- Why do we want to generate visuals and control lights?
 - We want to do all of this in the browser with web technologies
   - Implications of open source software
 
@@ -100,7 +105,11 @@ The following suggestions are totally optional, so please don't worry if you can
 
 ###  How to perform live!
 
-[![LiveJS JSConfEU 2019 Intro](https://img.youtube.com/vi/o1rzsna263c/0.jpg)](https://youtu.be/o1rzsna263c?t=1222 "LiveJS JSConfEU 2019 Intro")
+<p align="center">
+    <a href="https://youtu.be/o1rzsna263c?t=1222">
+        <img height="300" src="https://img.youtube.com/vi/o1rzsna263c/0.jpg" alt="LiveJS JSConfEU 2019 Intro">
+    </a>
+</p>
 
 - Prepare for a show
 - Use a Web MIDI controller
