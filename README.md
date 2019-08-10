@@ -36,7 +36,7 @@ The following suggestions are totally optional, so please don't worry if you can
   * We will help you if you have no idea at all
 * MIDI controller that can be connected via USB to the computer
   * We will have some spare MIDI controllers for you to use, but if you want to buy one we can recommend the [KORG nanoKONTROL 2](https://www.korg.com/us/products/computergear/nanokontrol2/) because it comes for a reasonable price, is portable & has a lot of buttons, faders and knobs
-    ![korg nanoKONTROL 2](docs/media/korg_nanoKONTROL2.png)
+    ![korg nanoKONTROL 2](docs/media/korg_nanoKONTROL2_small.png)
 * [Arduino IDE](https://www.arduino.cc/en/Guide/HomePage#install) if you want to put code onto the Arduino (if not then we will do this for you)
 
 ---
