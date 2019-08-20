@@ -63,7 +63,8 @@ The following suggestions are totally optional, so please don't worry if you can
 
 - What is the purpose of this workshop?
 - Why do we want to generate visuals and control lights?
-- We want to do all of this in the browser with web technologies
+  - What do you love?
+- We want to do all of this in a web browser
   - Implications of open source software
 
 ---
@@ -75,7 +76,9 @@ The following suggestions are totally optional, so please don't worry if you can
 </p>
 
 - How does [modV](https://modv.js.org/) work?
-- [Live audio analysis with Meyda](https://jsbin.com/movezix/6/edit?html,js,output)
+  - Create a project and save a preset
+  - [Live audio analysis with Meyda](https://jsbin.com/movezix/6/edit?html,js,output)
+- [Add an image](https://github.com/vcync/modV/issues/329#issuecomment-468449142)
 - Use visuals from [CodePen](https://codepen.io)
 - Use visuals from [Shadertoy](https://www.shadertoy.com)
 
@@ -89,7 +92,7 @@ The following suggestions are totally optional, so please don't worry if you can
 
 - How does [luminave](https://github.com/NERDDISCO/luminave) work?
   - What is DMX512?
-- Build your own light (DMX512) Controller using an Arduino
+- [Build your own light (DMX512) Controller using an Arduino](https://medium.com/@timpietrusky/how-to-build-a-webusb-dmx512-controller-by-using-an-arduino-e0dd8efb7bf0)
 
   <img height="200" src="docs/media/webusb_dmx512_controller.jpg" alt="WebUSB DMX512 Controller">
 - Patch a light
@@ -113,4 +116,5 @@ The following suggestions are totally optional, so please don't worry if you can
 
 - Prepare for a show
 - Use a Web MIDI controller
+  - [Web MIDI Console](https://factotumo.com/web-midi-console/)
 - Use Tim's preset for modV
