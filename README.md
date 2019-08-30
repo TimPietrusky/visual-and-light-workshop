@@ -2,6 +2,8 @@
 
 Learn to create visuals and to control lights in this workshop, full of hands-on exercises. 
 
+I will explain everything you need and there are just 2 things to prepare. 
+
 - [Preparations](#preparations)
   - [Nice to have](#nice-to-have)
 - [Schedule](#schedule)
@@ -52,6 +54,9 @@ The following suggestions are totally optional, so please don't worry if you can
 ---
 
 ## Workshop
+
+* [Slides](https://timpietrusky.github.io/visual-and-light-workshop) (Use the left / right arrow keys to change the slide)
+* [Speaker notes](https://timpietrusky.github.io/visual-and-light-workshop?present=true)
 
 ### What are visuals & lights?  
 
