@@ -216,9 +216,9 @@
 
 ## 13. Import Tims preset
 
-* Download the preset
+* [Download the preset](https://github.com/TimPietrusky/visual-and-light-workshop/blob/master/timpietrusky.zip)
 * Extract it
-* Put it into your media folder
+* Put it into your media folder (so its on the same level as the `default` folder)
 * Reload modV
 * Load the project `timpietrusky` using the `Projects` tab
 * Load the preset `timpietrusky-live-2019`
